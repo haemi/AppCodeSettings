@@ -466,6 +466,14 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/CFPropertyList-2.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="CFPropertyList (v2.3.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/CFPropertyList-2.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/CFPropertyList-2.3.4/lib" />
+      </SOURCES>
+    </library>
     <library name="chunky_png (v1.3.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/chunky_png-1.3.1/lib" />
@@ -586,6 +594,14 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/claide-1.0.0.beta.1/lib" />
       </SOURCES>
     </library>
+    <library name="claide (v1.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/claide-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/claide-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="clamp (v0.6.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/clamp-0.6.5/lib" />
@@ -628,6 +644,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-1.0.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods (v1.2.0.beta.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-1.2.0.beta.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-1.2.0.beta.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-1.2.0.beta.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-1.2.0.beta.3/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-core (v0.29.0, ruby-2.0.0-p648) [gem]">
@@ -782,6 +808,14 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/cocoapods-core-1.1.0.beta.1/lib" />
       </SOURCES>
     </library>
+    <library name="cocoapods-core (v1.2.0.beta.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-core-1.2.0.beta.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-core-1.2.0.beta.3/lib" />
+      </SOURCES>
+    </library>
     <library name="cocoapods-deintegrate (v1.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/cocoapods-deintegrate-1.0.0/lib" />
@@ -796,6 +830,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/cocoapods-deintegrate-1.0.0.beta.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-deintegrate (v1.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-deintegrate-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-deintegrate-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-downloader (v0.3.0, ruby-2.0.0-p648) [gem]">
@@ -900,6 +942,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/cocoapods-downloader-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-downloader (v1.1.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-downloader-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-downloader-1.1.3/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-playgrounds (v1.2.1, ruby-2.0.0-p648) [gem]">
@@ -1120,6 +1170,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/cocoapods-trunk-1.0.0.beta.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-trunk (v1.1.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-trunk-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/cocoapods-trunk-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-try (v0.2.0, ruby-2.0.0-p648) [gem]">
@@ -1972,6 +2030,16 @@
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/fourflusher-1.0.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/fourflusher-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="fourflusher (v2.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/fourflusher-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/fourflusher-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/fourflusher-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/fourflusher-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="frameit (v1.0.0, ruby-2.0.0-p648) [gem]">
@@ -2874,6 +2942,14 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/molinillo-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="molinillo (v0.5.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/molinillo-0.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/molinillo-0.5.4/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.10.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/multi_json-1.10.1/lib" />
@@ -2964,6 +3040,16 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/mustache-0.99.8/bin" />
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/mustache-0.99.8/lib" />
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/mustache-0.99.8/man" />
+      </SOURCES>
+    </library>
+    <library name="nanaimo (v0.2.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/nanaimo-0.2.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/nanaimo-0.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/nanaimo-0.2.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/nanaimo-0.2.3/lib" />
       </SOURCES>
     </library>
     <library name="nap (v0.6.0, ruby-2.0.0-p648) [gem]">
@@ -3712,6 +3798,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/ruby-keychain-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-macho (v0.2.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ruby-macho-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ruby-macho-0.2.6/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.7.5, ruby-2.0.0-p648) [gem]">
@@ -4748,6 +4842,16 @@
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/xcodeproj-1.2.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/xcodeproj-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xcodeproj (v1.4.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/xcodeproj-1.4.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/xcodeproj-1.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/xcodeproj-1.4.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/xcodeproj-1.4.2/lib" />
       </SOURCES>
     </library>
     <library name="xcpretty (v0.1.9, ruby-2.0.0-p648) [gem]">
